@@ -4,15 +4,11 @@
 <img width="500" height="500" alt="logo-sewaja" src="https://github.com/user-attachments/assets/85d1822a-7451-40a0-8cbb-d527a77536f1" />
 </div>
 
-Sewaja App adalah prototype aplikasi sewa barang berbasis mobile yang dirancang untuk membantu pengguna mencari, menyewa, dan menawarkan barang secara praktis.
-
-Prototype ini berfokus pada validasi konsep, desain UI/UX, alur penggunaan, dan materi presentasi sebelum masuk ke tahap frontend dan backend production.
-
-Ini adalah sebuah Proyek [Expo](https://expo.dev) yang dibuat dengan [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Sewaja adalah aplikasi sewa barang berbasis mobile yang dirancang untuk membantu pengguna mencari, menyewa, dan menawarkan barang dengan praktis.
 
 ## Purpose
 
-Sewaja dibuat untuk mendukung budaya berbagi barang, mengurangi konsumsi berlebih, dan membantu pengguna mendapatkan akses kebutuhan dengan lebih hemat.
+Sewaja dibuat untuk mendukung budaya berbagi barang, mengurangi konsumsi berlebih, dan membantu pengguna mendapatkan akses ke kebutuhan dengan lebih hemat.
 
 ## Get started
 
@@ -31,7 +27,7 @@ Sewaja dibuat untuk mendukung budaya berbagi barang, mengurangi konsumsi berlebi
    git --version
    ```
 
-2. Clone project from Github
+2. Clone project from GitHub
    ```bash
    git clone https://github.com/marliyre/Sewaja
    ```
