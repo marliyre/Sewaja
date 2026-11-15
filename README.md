@@ -1,12 +1,8 @@
-# Sewaja
-
----
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:134E5E,100:0F766E&height=230&section=header&text=SEWAJA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc="Sewa%20Mudah,%20%7C%20Hidup%20Tanpa%20Masalah,%20%7C%20dan%20Uang%20Tak%20Berdarah"&descSize=13&descAlignY=58&descColor=CCFBF1)
 
 <div align="center">
 <img width="500" height="500" alt="logo-sewaja" src="https://github.com/user-attachments/assets/85d1822a-7451-40a0-8cbb-d527a77536f1" />
 </div>
-
-## "Sewa Mudah, Hidup Tanpa Masalah, dan Uang Tak Berdarah"
 
 Sewaja App adalah prototype aplikasi sewa barang berbasis mobile yang dirancang untuk membantu pengguna mencari, menyewa, dan menawarkan barang secara praktis.
 
@@ -141,3 +137,5 @@ Fokus pengembangan berikutnya adalah:
 - Rating and review
 - Admin dashboard
 - Mobile frontend implementation
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:134E5E,100:0F766E&height=110&section=footer)
