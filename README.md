@@ -1,5 +1,7 @@
 <p align="center">
-<p width="1000" height="1000" src="**Sewaja**"
+<p width="1000" height="1000">
+   Sewaja
+</p>
 </p>
 
 <div align="center">
