@@ -1,4 +1,6 @@
-# Sewaja App
+<p align="center">
+# Sewaja
+</p>
 
 <div align="center">
 <img width="500" height="500" alt="logo-sewaja" src="https://github.com/user-attachments/assets/85d1822a-7451-40a0-8cbb-d527a77536f1" />
