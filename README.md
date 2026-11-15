@@ -1,5 +1,9 @@
 # Sewaja App
 
+<div align="center">
+<img width="500" height="500" alt="logo-sewaja" src="https://github.com/user-attachments/assets/85d1822a-7451-40a0-8cbb-d527a77536f1" />
+</div>
+
 ## "Sewa Mudah, Hidup Tanpa Masalah, dan Uang Tak Berdarah"
 
 Sewaja App adalah prototype aplikasi sewa barang berbasis mobile yang dirancang untuk membantu pengguna mencari, menyewa, dan menawarkan barang secara praktis.
@@ -31,11 +35,11 @@ Sewaja dibuat untuk mendukung budaya berbagi barang, mengurangi konsumsi berlebi
 
 2. Clone project from Github
    ```bash
-   git clone https://github.com/marliyre/Sewaja-App-V.1.0.git
+   git clone https://github.com/marliyre/Sewaja
    ```
    Masuk foldernya:
    ```bash
-   cd Sewaja-App-V.1.0
+   cd Sewaja
    ```
    
 3. Install dependencies
